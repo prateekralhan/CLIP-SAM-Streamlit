@@ -1,7 +1,8 @@
 # CLIP-SAM-Streamlit [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 CLIP + SAM for open vocabulary image segmentation
 
-![Animation]()
+![demo](https://github.com/prateekralhan/CLIP-SAM-Streamlit/assets/29462447/5d08252a-584a-4816-a2a9-ecb72503d2df)
+
 
 ## Installation:
 * Simply run the command ```pip install -r requirements.txt``` to install the dependencies.
